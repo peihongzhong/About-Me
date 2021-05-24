@@ -1,0 +1,49 @@
+body {
+    background: lightblue;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+img {
+    width: 200px;
+
+}
+
+ul {
+    color: navy;
+    background-color: white;
+    text-transform: uppercase;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Hind', sans-serif;
+}
+
+/* mouse over link */
+a:hover {
+    color: pink;
+}
+
+.link {
+    color: purple;
+    background-color: pink;
+    font-size: 30px;
+}
